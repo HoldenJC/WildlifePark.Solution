@@ -1,0 +1,14 @@
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\bin\Debug\netcoreapp2.2\WildlifePark.Solution.deps.json
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\bin\Debug\netcoreapp2.2\WildlifePark.Solution.runtimeconfig.json
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\bin\Debug\netcoreapp2.2\WildlifePark.Solution.runtimeconfig.dev.json
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\bin\Debug\netcoreapp2.2\WildlifePark.Solution.dll
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\bin\Debug\netcoreapp2.2\WildlifePark.Solution.pdb
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\obj\Debug\netcoreapp2.2\WildlifePark.Solution.csprojAssemblyReference.cache
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\obj\Debug\netcoreapp2.2\WildlifePark.Solution.csproj.CoreCompileInputs.cache
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\obj\Debug\netcoreapp2.2\WildlifePark.Solution.RazorAssemblyInfo.cache
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\obj\Debug\netcoreapp2.2\WildlifePark.Solution.RazorAssemblyInfo.cs
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\obj\Debug\netcoreapp2.2\WildlifePark.Solution.AssemblyInfoInputs.cache
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\obj\Debug\netcoreapp2.2\WildlifePark.Solution.AssemblyInfo.cs
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\obj\Debug\netcoreapp2.2\WildlifePark.Solution.RazorTargetAssemblyInfo.cache
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\obj\Debug\netcoreapp2.2\WildlifePark.Solution.dll
+C:\Users\Holde\Desktop\coding\WildlifePark.Solution\obj\Debug\netcoreapp2.2\WildlifePark.Solution.pdb
